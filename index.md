@@ -5,6 +5,11 @@ JonyAhammad-centria.github.io
 
 On this website I will tell you about stuff I like
 
+## Jony Ahammad web exercise
+
+| [**About Me**](about.md) | [**My Skills**](skills.md) | 
+
+
 ### Coding
 Line by line, I build ideas into reality — every bug fixed is a small victory.
 
