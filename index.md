@@ -1,10 +1,4 @@
-## Jony Ahammad web exercise
 
-# Jony Ahammad
-
-jony-ahammad-centria.github.io
-
----
 
 ## Stuff I like
 ... (rest of your content)
