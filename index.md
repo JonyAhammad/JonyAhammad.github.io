@@ -1,8 +1,6 @@
 
-JonyAhammad.github.io
+JonyAhammad-centria.github.io
 
-## Stuff I like
-... (rest of your content)
 ## Stuff I like
 
 On this website I will tell you about stuff I like
