@@ -106,4 +106,149 @@
             <div class="content-card bg-secondary-bg p-8 rounded-xl max-w-5xl text-left">
                 <h2 class="text-3xl font-bold mb-4 flex items-center"><i data-lucide="user-square" class="w-6 h-6 mr-3 text-accent"></i> My Core Philosophy: Continuous Mastery</h2>
                 <p class="text-text-light leading-relaxed mb-4">
-                    My professional journey is centered on **continu
+                    My professional journey is centered on **continuous iteration and mastery**. I believe that the role of a modern developer is not just to write code, but to engineer solutions that are secure, highly scalable, and user-centric. I find genuine satisfaction in the meticulous problem-solving required to achieve a clean and functional digital product.
+                </p>
+                
+                <h3 class="text-xl font-bold mt-6 mb-2 text-accent">Background and Drive</h3>
+                <ul class="list-disc list-inside text-text-muted space-y-1 ml-4">
+                    <li>**Problem-Solver:** Every bug is a learning opportunity; every project is a chance to deepen my understanding of system architecture and connectivity.</li>
+                    <li>**Security Minded:** I approach development with a proactive security mindset, seeing system protection as an integral part of the design process, not an afterthought.</li>
+                    <li>**Digital Architect:** My goal is to build long-term, maintainable solutions, prioritizing clarity, efficiency, and the long-term health of the codebase.</li>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="border-secondary-bg my-16">
+
+        <!-- 2. Skills Section (Content Integrated from Skills.md) -->
+        <section id="skills" class="mb-20 pt-8">
+            <h2 class="text-4xl font-bold text-center mb-10 text-accent">Technical Proficiencies & Mastery</h2>
+
+            <div class="content-card bg-secondary-bg p-8 rounded-xl max-w-5xl mx-auto">
+                <p class="text-text-muted text-lg mb-6">
+                    My skills are structured to handle the full lifecycle of modern web applications, with a strong emphasis on front-end aesthetics and back-end security.
+                </p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- Core Development -->
+                    <div>
+                        <h3 class="text-xl font-semibold mb-3 flex items-center text-yellow-300"><i data-lucide="code" class="w-5 h-5 mr-2"></i> Core Development</h3>
+                        <ul class="space-y-2 text-text-light">
+                            <li>JavaScript (ES6+), Python, HTML5, CSS3, Tailwind CSS</li>
+                            <li>Modern Frameworks (React & Angular Concepts)</li>
+                            <li>Expertise Focus: Responsive UI/UX implementation, component-based design.</li>
+                        </ul>
+                    </div>
+                    <!-- Security & Systems -->
+                    <div>
+                        <h3 class="text-xl font-semibold mb-3 flex items-center text-purple-300"><i data-lucide="shield" class="w-5 h-5 mr-2"></i> Security & Systems</h3>
+                        <ul class="space-y-2 text-text-light">
+                            <li>Cybersecurity Principles, Vulnerability Assessment</li>
+                            <li>Git, Linux Environment Management, CLI Proficiency</li>
+                            <li>Expertise Focus: Proactive security, version control, and automation scripting.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <hr class="border-secondary-bg my-16">
+
+        <!-- 3. Projects Section (Content Integrated from Projects.md) -->
+        <section id="projects" class="mb-20 pt-8">
+            <h2 class="text-4xl font-bold text-center mb-10 text-accent">Signature Projects & Work</h2>
+            
+            <p class="text-xl text-text-muted text-center max-w-3xl mx-auto mb-12">
+                These projects showcase my technical execution, problem-solving abilities, and commitment to learning new stacks.
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                
+                <!-- Project Card 1: Scalable Web App -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-blue-500">
+                    <h3 class="text-2xl font-semibold mb-2 flex items-center text-blue-400"><i data-lucide="monitor" class="w-6 h-6 mr-3"></i> Scalable Web App (Concept)</h3>
+                    <p class="text-text-muted mb-4 text-sm">
+                        **Focus:** Full-Stack Performance & Clean Architecture. Designed a proof-of-concept for a modern, high-concurrency web application. The primary goal was optimizing server response times and efficiently managing complex user states.
+                    </p>
+                    <div class="flex flex-wrap gap-2 text-xs">
+                        <span class="bg-blue-500/30 text-blue-300 px-3 py-1 rounded-full">React</span>
+                        <span class="bg-green-600/30 text-green-300 px-3 py-1 rounded-full">Node.js</span>
+                        <span class="bg-red-500/30 text-red-300 px-3 py-1 rounded-full">SQL/NoSQL</span>
+                    </div>
+                </div>
+
+                <!-- Project Card 2: Security Tool -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-purple-500">
+                    <h3 class="text-2xl font-semibold mb-2 flex items-center text-purple-400"><i data-lucide="key-round" class="w-6 h-6 mr-3"></i> Automated Security Script</h3>
+                    <p class="text-text-muted mb-4 text-sm">
+                        **Focus:** System Security Automation & Compliance. Developed a command-line utility in Python to automate routine system vulnerability checks and ensure configuration compliance against a predefined baseline.
+                    </p>
+                    <div class="flex flex-wrap gap-2 text-xs">
+                        <span class="bg-yellow-500/30 text-yellow-300 px-3 py-1 rounded-full">Python</span>
+                        <span class="bg-gray-600/30 text-gray-300 px-3 py-1 rounded-full">Networking</span>
+                        <span class="bg-purple-600/30 text-purple-300 px-3 py-1 rounded-full">Bash/Linux</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <hr class="border-secondary-bg my-16">
+
+        <!-- 4. Interests Section (Content Integrated from Interests.md) -->
+        <section id="interests" class="mb-16 pt-8">
+            <h2 class="text-4xl font-bold text-center mb-10 text-accent">Personal Drivers & Growth</h2>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Interest Card 1: Learning -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-yellow-500">
+                    <h3 class="text-xl font-semibold mb-3 flex items-center text-accent"><i data-lucide="graduation-cap" class="w-5 h-5 mr-2"></i> Continuous Learning</h3>
+                    <p class="text-text-muted leading-relaxed text-sm">I actively pursue new tools and languages because technology never stops evolving, and neither should my skill set. It's the key to staying relevant and effective in a dynamic field.</p>
+                </div>
+                
+                <!-- Interest Card 2: Fitness -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-green-500">
+                    <h3 class="text-xl font-semibold mb-3 flex items-center text-accent"><i data-lucide="dumbbell" class="w-5 h-5 mr-2"></i> Fitness & Focus</h3>
+                    <p class="text-text-muted leading-relaxed text-sm">Physical well-being is directly tied to mental performance. Workouts keep my mind sharp, energy high, and enable deep, focused work for extended coding sessions. This is a non-negotiable part of my routine.</p>
+                </div>
+
+                <!-- Interest Card 3: Music -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-indigo-500">
+                    <h3 class="text-xl font-semibold mb-3 flex items-center text-accent"><i data-lucide="music" class="w-5 h-5 mr-2"></i> Music as Fuel</h3>
+                    <p class="text-text-muted leading-relaxed text-sm">The combination of logic and emotion in music provides the perfect rhythm for concentration, offering a creative release that enhances my technical thinking and focus during complex tasks.</p>
+                </div>
+                
+                <!-- Interest Card 4: Gaming -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-red-500">
+                    <h3 class="text-xl font-semibold mb-3 flex items-center text-accent"><i data-lucide="gamepad-2" class="w-5 h-5 mr-2"></i> Strategy in Gaming</h3>
+                    <p class="text-text-muted leading-relaxed text-sm">Gaming sharpens strategic thinking, reflexes, and rapid problem-solving skills—all of which directly translate into better performance in a development environment by challenging quick decision-making.</p>
+                </div>
+                
+                <!-- Interest Card 5: Travel -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-cyan-500">
+                    <h3 class="text-xl font-semibold mb-3 flex items-center text-accent"><i data-lucide="plane" class="w-5 h-5 mr-2"></i> Travel & Perspective</h3>
+                    <p class="text-text-muted leading-relaxed text-sm">Exposure to new cultures and places offers fresh perspectives, inspiring new ideas and challenging my approach to creative and technical problem-solving with a renewed global outlook.</p>
+                </div>
+                
+                <!-- Interest Card 6: Work Ethic -->
+                <div class="content-card bg-secondary-bg p-6 rounded-xl border-l-4 border-gray-500">
+                    <h3 class="text-xl font-semibold mb-3 flex items-center text-accent"><i data-lucide="briefcase" class="w-5 h-5 mr-2"></i> Professional Work Ethic</h3>
+                    <p class="text-text-muted leading-relaxed text-sm">My work ethic is focused on turning challenges into opportunities and consistently delivering high-quality, impactful solutions through dedicated team collaboration and commitment to deadlines.</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-secondary-bg mt-16 py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-text-muted text-sm">
+            <p>&copy; 2024 Jony Ahammad. All rights reserved. | <span class="text-accent">Web Portfolio v3.0 - Single File Solution</span></p>
+        </div>
+    </footer>
+
+    <!-- Script to ensure Lucide icons are rendered -->
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>
