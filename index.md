@@ -59,6 +59,7 @@ This section contains the answers and output from completing the exercises on th
 I think I _**really**_ like Markdown!
 
 **Exercise 3: Make the word "bold" using two asterisks.**
+
 I **will** bold complete these lessons!
 **IT has brought many benefits to society, such as easier communication and better access to education, but it also creates challenges like misinformation and social isolation. It is important to use technology responsibly to maximize its positive impact.**
 
