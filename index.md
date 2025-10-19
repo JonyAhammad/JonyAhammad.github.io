@@ -7,7 +7,9 @@ jony-ahammad-centria.github.io
 
 ## Stuff I like
 
-On this website I will tell you about stuff I like
+On this website, I will tell you about stuff I like in my
+## My degital Profile 
+[A friendly demo of Jony Ahammad work](about.html) 
 
 ### Coding
 Line by line, I build ideas into reality — every bug fixed is a small victory.
@@ -97,7 +99,7 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ### Lesson 4: Images
 
 **Exercise 1: Display an image from the provided URL, using "An image of a cat" as the alt text.**
-![An image of a cat]([http://placekitten.com/200/300](https://unsplash.com/s/photos/cat)) 
+![An image of a cat](https://unsplash.com/s/photos/cat)
 
 ---
 
