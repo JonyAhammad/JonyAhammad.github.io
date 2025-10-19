@@ -151,8 +151,8 @@ This is the first sentence. This is the second sentence. This is the third sente
 This is the first sentence. This is the second sentence.
 
 This is the third sentence.
-## My Profile 
 
-![A friendly demo of Jony Ahammad work](about.md) 
+## My Profile 
+[A friendly demo of Jony Ahammad work](about.html) 
 ---
 .
