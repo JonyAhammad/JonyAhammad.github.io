@@ -52,8 +52,8 @@ This section contains the answers and output from completing the exercises on th
 
 ### Lesson 1: **_Italics_**, and Bold
 
-**Exercise 1: Make the word "not" italic.**
-Writing in Markdown is **_not_** that hard!
+**Exercise 1: Make the word **_italic_** here.
+
 **_IT has brought many benefits to society, such as easier communication and better access to education, but it also creates challenges like misinformation and social isolation. It is important to use technology responsibly to maximize its positive impact._**
 **Exercise 2: Use an underscore to make the word "really" italic.**
 I think I _**really**_ like Markdown!
