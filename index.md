@@ -54,14 +54,15 @@ This section contains the answers and output from completing the exercises on th
 
 **Exercise 1: Make the word "not" italic.**
 Writing in Markdown is **_not_** that hard!
-
+**_IT has brought many benefits to society, such as easier communication and better access to education, but it also creates challenges like misinformation and social isolation. It is important to use technology responsibly to maximize its positive impact._**
 **Exercise 2: Use an underscore to make the word "really" italic.**
 I think I _**really**_ like Markdown!
 
-**Exercise 3: Make the word "will" bold using two asterisks.**
-I **will** complete these lessons!
+**Exercise 3: Make the word "bold" using two asterisks.**
+I **will** bold complete these lessons!
+**IT has brought many benefits to society, such as easier communication and better access to education, but it also creates challenges like misinformation and social isolation. It is important to use technology responsibly to maximize its positive impact.**
 
-**Exercise 4: Use underscores to make the phrase "Of course" italic and the phrase "a _**little moxie**_" bold.**
+**Exercise 4: Use underscores to make the phrase "Of course" italic and the phrase "a **_little moxie_**" bold.**
 **_Of course,_** she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
 **Exercise 5: Make the phrase "This is unbelievable" both bold and italic.**
