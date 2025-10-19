@@ -99,7 +99,7 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ### Lesson 4: Images
 
 **Exercise 1: Display an image from the provided URL, using "An image of a cat" as the alt text.**
-![An image of a cat](https://unsplash.com/s/photos/cat)
+![An image of a cat](https://www.pinterest.com/pin/unleash-the-cuteness-adorable-and-hilarious-cat-wallpapers-for-instant-smiles-video--905223593840778065/)
 
 ---
 
