@@ -102,9 +102,10 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ### Lesson 4: Images
 
 **Exercise 1: Display an image from the provided URL, using "An image of a cat" as the alt text.**
-![An image of a cat](https://www.pinterest.com/pin/unleash-the-cuteness-adorable-and-hilarious-cat-wallpapers-for-instant-smiles-video--905223593840778065/)
+![An image of a cat]()
 
----
+---![raoul-droog-yMSecCHsIBc-unsplash](https://github.com/user-attachments/assets/a37d598b-b56b-4987-86ea-2137f0e6032d)
+
 
 ### Lesson 5: Blockquotes
 
@@ -148,8 +149,8 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 
 ### Lesson 7: Paragraphs and Line Breaks
 
-**Exercise 1: Create a single paragraph from the following three sentences.**
-This is the first sentence. This is the second sentence. This is the third sentence.
+**Exercise 1: Create a single paragraph from the following  sentences.**
+This is the first sentence, which begins the paragraph by introducing a simple statement. The second sentence continues the thought, providing a smooth transition and maintaining the flow of the idea. Finally, the third sentence concludes the paragraph, tying everything together into one coherent and complete piece of writing.
 
 **Exercise 2: Create two separate paragraphs, with the first two sentences in the first paragraph, and the third sentence in the second paragraph.**
 This is the first sentence. This is the second sentence.
