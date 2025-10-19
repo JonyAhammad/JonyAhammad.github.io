@@ -56,12 +56,12 @@ This section contains the answers and output from completing the exercises on th
 Writing in Markdown is **_not_** that hard!
 
 **Exercise 2: Use an underscore to make the word "really" italic.**
-I think I _really_ like Markdown!
+I think I _**really**_ like Markdown!
 
 **Exercise 3: Make the word "will" bold using two asterisks.**
 I **will** complete these lessons!
 
-**Exercise 4: Use underscores to make the phrase "Of course" italic and the phrase "a little moxie" bold.**
+**Exercise 4: Use underscores to make the phrase "Of course" italic and the phrase "a _**little moxie**_" bold.**
 **_Of course,_** she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
 **Exercise 5: Make the phrase "This is unbelievable" both bold and italic.**
