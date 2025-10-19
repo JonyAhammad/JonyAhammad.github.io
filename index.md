@@ -153,7 +153,5 @@ This is the first sentence. This is the second sentence.
 
 This is the third sentence.
 
-## My Profile 
-[A friendly demo of Jony Ahammad work](about.html) 
 ---
 .
