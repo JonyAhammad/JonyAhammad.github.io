@@ -103,7 +103,9 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 
 **Exercise 1: Display an image from the provided URL, using "An image of a cat" as the alt text.**
 
----![raoul-droog-yMSecCHsIBc-unsplash](https://github.com/user-attachments/assets/a37d598b-b56b-4987-86ea-2137f0e6032d)
+<img src="---![raoul-droog-yMSecCHsIBc-unsplash](https://github.com/user-attachments/assets/a37d598b-b56b-4987-86ea-2137f0e6032d)alt="My Photo" width="300" height="200">
+
+
 
 
 ### Lesson 5: Blockquotes
