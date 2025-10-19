@@ -9,7 +9,7 @@ jony-ahammad-centria.github.io
 
 On this website, I will tell you about stuff I like in my
 ## My degital Profile 
-[A friendly demo of Jony Ahammad work](about.html) 
+[A friendly demo of Jony Ahammad's work](about.html) 
 
 ### Coding
 Line by line, I build ideas into reality — every bug fixed is a small victory.
