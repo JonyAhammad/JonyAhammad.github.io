@@ -109,12 +109,13 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ### Lesson 5: Blockquotes
 
 **Exercise 1: Blockquote the phrase "I read this great book today."**
-> I read this great book today.
+> I read this great book today. Information Technology (IT) has transformed the way people live, work, and communicate. One positive impact of IT is the improvement of education and access to information. Students can now use online learning platforms, digital libraries, and educational apps to study anytime and anywhere. For example, in my home country, Bangladesh, many schools adopted online classes during the COVID-19 pandemic using Zoom and Google Classroom. This allowed students to continue their studies even when schools were closed. IT has therefore made education more flexible and accessible to everyone.
 
 **Exercise 2: Blockquote the text and include a nested quote from Moby Dick..**
 > I said, "That's a great blockquote."
 >
 > > "Call me Ishmael."
+> > However, IT also has negative effects on society. One major issue is the spread of misinformation through social media. False news and rumors can quickly go viral, causing confusion and even panic. In Bangladesh, for instance, there have been cases where fake news on Facebook led to public unrest and misunderstandings. Additionally, spending too much time online can affect people’s mental health and reduce real-life social interaction
 
 
 **Exercise 3: Blockquote the entire quote, including the line break.**
