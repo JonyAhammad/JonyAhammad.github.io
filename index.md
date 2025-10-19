@@ -11,7 +11,7 @@ jony-ahammad-centria.github.io
 ## Stuff I like
 
 On this website, I will tell you about stuff I like in my
-## My degital Profile 
+## Here is My digital Profile 
 [A friendly demo of Jony Ahammad's work](about.html) 
 
 ### Coding
@@ -102,7 +102,6 @@ If you're thinking to yourself, _**This is unbelievable**_, you'd probably be ri
 ### Lesson 4: Images
 
 **Exercise 1: Display an image from the provided URL, using "An image of a cat" as the alt text.**
-![An image of a cat]()
 
 ---![raoul-droog-yMSecCHsIBc-unsplash](https://github.com/user-attachments/assets/a37d598b-b56b-4987-86ea-2137f0e6032d)
 
@@ -155,7 +154,7 @@ This is the first sentence, which begins the paragraph by introducing a simple s
 **Exercise 2: Create two separate paragraphs, with the first two sentences in the first paragraph, and the third sentence in the second paragraph.**
 This is the first sentence. This is the second sentence.
 
-This is the third sentence.
+This is the third sentence.This is the first sentence, which begins the paragraph and introduces the reader to the main idea in a clear and simple way. The second sentence continues the thought, adding more information and helping the paragraph flow naturally from one idea to the next. Finally, the third sentence brings the paragraph to a smooth and logical conclusion, summarizing the key point and giving a sense of completeness. Together, these three sentences form a well-structured paragraph that demonstrates how short, clear statements can be combined to create organized and meaningful writing.
 
 ---
 .
